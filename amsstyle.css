@@ -267,8 +267,9 @@
 }
 
 #mainmenu {
-    font-size: 70%;
+    font-size: 60%;
     line-height: 50%;
+    margin-right: 20px;
 
 }
 
@@ -323,6 +324,9 @@
     margin-right: 20px;
     background-color: #0a8d40;
 }
+#video iframe {
+    height: 400px;
+}
 
 .social {
     height: 200px;
@@ -337,5 +341,5 @@
     font-size: 300%;
     margin: 1%;
     padding: 5%;
-    color: #1c0deb;
+    color: #138d23;
 }
