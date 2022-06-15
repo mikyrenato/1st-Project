@@ -308,6 +308,10 @@
     margin-left: 20px;
 }
 
+#pic img {
+    width: 100%;
+}
+
 #video {
     margin-top: 20px;
     margin-left: 20px;
