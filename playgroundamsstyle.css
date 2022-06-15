@@ -260,12 +260,16 @@
 
 #mainmenu{
     height: 50px;
-    margin-left: 50px;
+    margin-left: 5px;
 }
 
 
 #mainwelcome {
     padding-bottom: 30px;
+}
+
+#pic img {
+    width: 100%;
 }
 
 }
@@ -306,10 +310,6 @@
 #pic {
     margin-top: 50px;
     margin-left: 20px;
-}
-
-#pic img {
-    width: 100%;
 }
 
 #video {
