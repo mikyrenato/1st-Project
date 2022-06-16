@@ -311,10 +311,17 @@
     .signupinputs button {
         float:left;
     }
+
+    #video iframe {
+        height: 400px;
+    }
 }
+
 #pic {
     margin-top: 50px;
     margin-left: 20px;
+    margin-right: 20px;
+    column-count: 2;
 }
 
 #video {
@@ -324,12 +331,8 @@
     margin-right: 20px;
     background-color: #0a8d40;
 }
-#video iframe {
-    height: 400px;
-}
 
 .social {
-    height: 200px;
     text-align: center;
 }
 
@@ -340,6 +343,16 @@
 .social i {
     font-size: 300%;
     margin: 1%;
-    padding: 5%;
+    padding: 3%;
     color: #138d23;
 }
+
+ i:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#pic img {
+    width: 100%;
+}
+
