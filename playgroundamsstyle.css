@@ -98,6 +98,7 @@
     border-bottom: 1px solid;
     background: white;
     border-radius: 25px;
+    text-align: center;
 }
 
 .signupinputs button {
@@ -110,6 +111,10 @@
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 25px;
+}
+
+.signupinputs button:hover {
+    color: gray;
 }
 
 .signupform h2{
@@ -173,6 +178,7 @@
     background: white;
     margin-top: 50px;
     border-radius: 25px;
+    text-align: center;
 }
 
 .logininputs button {
@@ -186,6 +192,10 @@
     margin-left: 20px;
     margin-bottom: 20px;
     border-radius: 25px;
+}
+
+.logininputs button:hover {
+    color: gray;
 }
 
 #loginsection {
@@ -214,6 +224,7 @@
     border-bottom: 1px solid;
     background: white;
     margin-top: 30px;
+    text-align: center;
 }
 
 #inputs button {
@@ -226,6 +237,10 @@
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 10px;
+}
+
+#inputs button:hover {
+    color: gray;
 }
 
 #inputssection {
@@ -355,4 +370,3 @@
 #pic img {
     width: 100%;
 }
-
